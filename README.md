@@ -2,4 +2,4 @@
 ## Instalasi dan Konfigurasi Repository GitHub
 
 ### Langkah-langkah instalasi
-![img]screenshot/gambar1.png
+![Gambar 1](screenshot/gambar1.png)
